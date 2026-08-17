@@ -1,0 +1,27 @@
+.Vu {
+    background-color: red;
+}
+
+.Padding {
+    padding-left: 20px;
+}
+
+.Margin {
+ border-style: solid;
+ margin-top: auto; 
+ width: 30%;
+ height: 40%;  
+}
+
+.font-chu {
+    color: blue;
+    font-size: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.bord {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+}
